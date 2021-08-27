@@ -1,0 +1,26 @@
+オブジェクト型SCHEMA_EXPORT/TABLE/GRANT/OWNER_GRANT/OBJECT_GRANTの処理中です
+ORA-39083: オブジェクト型OBJECT_GRANTの作成が次のエラーで失敗しました:
+ORA-01917: ユーザーまたはロール'HNSZ01'は存在しません
+
+エラー文は次のとおりです:
+GRANT SELECT ON "HNAR01"."FMS_FC_JRNL_PTN" TO "HNSZ01"
+ORA-39083: オブジェクト型OBJECT_GRANTの作成が次のエラーで失敗しました:
+ORA-01917: ユーザーまたはロール'HNSZ01'は存在しません
+
+エラー文は次のとおりです:
+GRANT SELECT ON "HNAR01"."FMS_FC_JRNL_PTN_DTL" TO "HNSZ01"
+ORA-39083: オブジェクト型OBJECT_GRANTの作成が次のエラーで失敗しました:
+ORA-01917: ユーザーまたはロール'HNSZ01'は存在しません
+
+エラー文は次のとおりです:
+GRANT INSERT ON "HNAR01"."FMS_AI_COOPERATION_TABLE" TO "HNSZ01"
+ORA-39083: オブジェクト型OBJECT_GRANTの作成が次のエラーで失敗しました:
+ORA-01917: ユーザーまたはロール'HNSZ01'は存在しません
+
+エラー文は次のとおりです:
+GRANT SELECT ON "HNAR01"."FMS_AI_COOPERATION_TABLE" TO "HNSZ01"
+ORA-39083: オブジェクト型OBJECT_GRANTの作成が次のエラーで失敗しました:
+ORA-01917: ユーザーまたはロール'HNSZ01'は存在しません
+
+エラー文は次のとおりです:
+GRANT SELECT ON "HNAR01"."FMS_FC_JRNL" TO "HNSZ01"
